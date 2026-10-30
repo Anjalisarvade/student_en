@@ -1,13 +1,4 @@
-"""
-Student Enrollment System
-Python + Tkinter + SQLite
 
-Run:
-    python student_enrollment.py
-
-The SQLite database (student_enrollment.db) is created automatically in the
-same directory as this script. No third-party Python packages are required.
-"""
 
 import re
 import sqlite3
